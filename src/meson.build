@@ -16,6 +16,7 @@
 
 srcs += files(
   'acidbase.f90',
+  'arvo.f90',
   'atmasses.f90',
   'axis3.f',
   'biasmerge.f90',
@@ -82,6 +83,7 @@ srcs += files(
   'signal.c',
   'sigterm.f90',
   'solvtool.f90',
+  'solvtool_misc.f90',
   'sortens.f90',
   'spline.f90',
   'stereoisomers.f90',
